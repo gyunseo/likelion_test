@@ -18,7 +18,7 @@ body{
 #w_stopwatch,#w_timer{
     display: none;
 }
-input[type=number]{
+input[type=text]{
     width: 50px;
 }
 h1{
